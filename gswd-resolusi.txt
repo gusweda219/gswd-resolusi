@@ -1,4 +1,3 @@
 GSWD RESOLUSI
 - Membuat website sederhana
 - Mengikuti lomba website
-- Membuat aplikasi
