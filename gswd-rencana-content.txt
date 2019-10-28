@@ -3,4 +3,5 @@ RENCANA KONTEN GSWD
 - Javascript
   * ES6
   * Framework Javascript
+- Struktur Data Dasar
 - PHP Framework 
