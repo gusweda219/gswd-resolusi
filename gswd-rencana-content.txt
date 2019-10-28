@@ -1,0 +1,6 @@
+RENCANA KONTEN GSWD
+
+- Javascript
+  * ES6
+  * Framework Javascript
+- PHP Framework 
